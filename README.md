@@ -1,6 +1,6 @@
 # fib napi-rs
 
-文章背景 https://juejin.cn/p/7340636105764995124
+文章背景 https://juejin.cn/post/7340636105764995124
 
 ## 性能对比
 
